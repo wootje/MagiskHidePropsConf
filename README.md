@@ -13,6 +13,9 @@ Added some new fingerprints so you can use the module for Android TV 11 & Androi
 https://urlshrt.eu/buycupofcoffee
 <br>
 <br>
+<img src="https://urlshrt.eu/donateqr"></img>
+<br>
+<br>
 <br>
 <br>
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/wootje/MagiskHidePropsConf/total">
